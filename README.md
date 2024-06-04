@@ -1,2 +1,2 @@
-# 4sight-augmented-reality-furniture-store
-4sight - The augmented reality furniture store
+# 4магазин-мебели-дополненной-реальности
+4взгляд - Магазин мебели дополненной реальности
